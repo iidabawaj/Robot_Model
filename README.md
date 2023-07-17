@@ -21,3 +21,5 @@ The modifications I made are:
 2-Covering the back of the screen to avoid having any visible wires and to avoid any damage to the robot or injuries to the surroundings caused by some of the components not being covered.
 
 3-Speaker under the screen facing the desired person.
+
+4-Adding omni-wheels to the bottom of the base to make the robot move in any direction.
